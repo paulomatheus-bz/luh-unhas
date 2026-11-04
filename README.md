@@ -34,4 +34,4 @@ Concluir a identidade, preparar o conteúdo e versionar a primeira implementaç�
 
 ---
 
-<p align="center"><sub>Beleza · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
+<p align="center"><sub>Beleza · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL · <a href="https://www.instagram.com/kmtpl7/">Instagram @kmtpl7</a></sub></p>
