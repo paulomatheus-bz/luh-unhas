@@ -8,49 +8,26 @@
 
 ---
 
-
 <!-- readme:project-navigation -->
-<p align="center"><sub><a href="#situacao-do-repositorio">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositorio">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#proximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboracao">Colaboração</a></sub></p>
+<p align="center"><sub><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#estado-atual">Estado atual</a> &nbsp;·&nbsp; <a href="#linguagens">Linguagens</a> &nbsp;·&nbsp; <a href="#proximo-passo">Próximo passo</a></sub></p>
 <!-- /readme:project-navigation -->
-## Situação do repositório
 
-Este espaço reúne a documentação inicial de **Luh Unhas**. O código da aplicação ainda não está versionado aqui; a versão local pode estar mais avançada.
+## Sobre
 
-| Disponível agora | A documentar com o código |
-| --- | --- |
-| Apresentação do repositório | Tecnologias e dependências |
-| Orientação para obter uma cópia | Telas e funcionalidades implementadas |
-| Próximos passos de organização | Instalação, execução e verificações |
+Conceito de site para nail designer, ainda em fase de organização.
 
-## Acessar o repositório
+## Estado atual
 
-<details>
-<summary>Clonar a documentação</summary>
+**Em organização.** Este repositório ainda guarda somente a documentação. O código-fonte não foi enviado.
 
-```bash
-git clone https://github.com/paulomatheus-bz/luh-unhas.git
-cd luh-unhas
-```
+## Linguagens
 
-O clone atual contém documentação, sem uma aplicação para iniciar.
+Nenhuma linguagem detectada: só há documentação neste repositório.
 
-</details>
+## Próximo passo
 
-## Próximos passos
-
-- [ ] Adicionar os arquivos do projeto, preservando o histórico existente.
-- [ ] Descrever os recursos a partir do código publicado.
-- [ ] Registrar os comandos de desenvolvimento e verificação.
-- [ ] Incluir configuração de exemplo e imagens autorizadas, quando necessárias.
-
-## Colaboração
-
-Organize alterações em branches `feature/<descricao>` e revise por pull request. Antes de adicionar o código, configure o `.gitignore` para excluir dependências, builds, arquivos `.env` e dados privados.
-
-Não versione senhas, tokens ou dados de clientes.
+Concluir a identidade, preparar o conteúdo e versionar a primeira implementação.
 
 ---
 
-<p align="center">
-  <sub><strong>Beleza</strong> · Projeto mantido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub>
-</p>
+<p align="center"><sub>Beleza · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
