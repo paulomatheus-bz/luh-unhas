@@ -15,4 +15,8 @@ Quero mostrar os serviços, o trabalho da profissional e as informações para a
 
 A demonstração está configurada com Vite. O código não está organizado neste repositório; React e JavaScript são a stack considerada para a próxima versão.
 
+## Continuidade do projeto
+
+Quando a identidade visual e as informações de atendimento forem confirmadas, posso fechar o conteúdo e publicar uma primeira versão. Também vou organizar o código neste repositório para que a página possa ser executada e revisada por outras pessoas.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
