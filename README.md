@@ -6,7 +6,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Estou preparando uma página para apresentar os serviços de manicure e nail design da Luh.
 
 ## Conteúdo
