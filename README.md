@@ -2,8 +2,6 @@
 
 # Luh Unhas
 
-*Estou preparando uma página para apresentar os serviços de manicure e nail design da Luh.*
-
 <p>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -11,6 +9,10 @@
 </p>
 
 </div>
+
+Estou preparando uma página para apresentar os serviços de manicure e nail design da Luh.
+
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Conteúdo
