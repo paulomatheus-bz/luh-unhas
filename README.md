@@ -10,19 +10,12 @@
 
 </div>
 
-Estou estruturando uma página para apresentar os serviços de manicure e nail design da Luh.
+Proposta de página para divulgar serviços de manicure e nail design da Luh.
 
 ---
 
-<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
-## Conteúdo
+Proposta de página para apresentar serviços de manicure, nail design e informações de agendamento.
 
-A página deverá apresentar os serviços, o trabalho da profissional e as informações para agendamento de forma simples. Ainda é necessário confirmar os dados de atendimento, definir a identidade visual e selecionar fotos autorizadas.
-
-A demonstração está configurada com Vite. O código não está organizado neste repositório; React e JavaScript são a stack considerada para a próxima versão.
-
-## O que falta definir
-
-Quando a identidade visual e as informações de atendimento forem confirmadas, poderei concluir o conteúdo e publicar uma primeira versão. Também vou organizar o código neste repositório para que a página possa ser executada e revisada por outras pessoas.
+A demonstração usa Vite, mas o código não está organizado neste repositório. React e JavaScript são considerados para uma próxima versão. Ainda faltam confirmar os dados de atendimento e selecionar imagens autorizadas.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
