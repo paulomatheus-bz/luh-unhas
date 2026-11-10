@@ -10,12 +10,12 @@
 
 </div>
 
-Proposta de página para divulgar serviços de manicure e nail design da Luh.
+Proposta de página para divulgar os serviços da Luh.
 
 ---
 
-Proposta de página para apresentar serviços de manicure, nail design e informações de agendamento.
+A página está sendo planejada para mostrar serviços de manicure, nail design e contato para agendamento.
 
-A demonstração usa Vite, mas o código não está organizado neste repositório. React e JavaScript são considerados para uma próxima versão. Ainda faltam confirmar os dados de atendimento e selecionar imagens autorizadas.
+A demo usa Vite, mas os arquivos não estão neste repositório. React e JavaScript são considerados para a próxima versão.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
