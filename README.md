@@ -18,4 +18,9 @@ A página está sendo planejada para mostrar serviços de manicure, nail design 
 
 A demo usa Vite, mas os arquivos não estão neste repositório. React e JavaScript são considerados para a próxima versão.
 
+
+## Divulgação de serviços
+
+Proposta de página para apresentar serviços de manicure e facilitar solicitações de agendamento.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
